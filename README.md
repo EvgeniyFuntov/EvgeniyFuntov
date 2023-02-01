@@ -7,6 +7,7 @@
   <a href="https://t.me/funtov">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
   </a>
+</div>
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -20,6 +21,7 @@
 
 ### :man_technologist: About Me :
 I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+  
 - :telescope: I’m working as a QA Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Studying automated testing.
